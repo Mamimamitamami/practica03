@@ -1,0 +1,3 @@
+jar cfm releases/ExampleApp.jar META-INF/MANIFEST.MF -C build/classes .
+
+desde la raiz del proyecto
